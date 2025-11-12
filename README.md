@@ -48,7 +48,7 @@ To make the project even stronger:
 ## 👤 Author
 **Mohamed Mansur**  
 Data Scientist | Computer Vision Specialist | ML Engineer  
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/mohameddmansurr)
+[LinkedIn](https://www.linkedin.com/in/mohameddaliimansourr/) | [GitHub](https://github.com/mohameddmansurr)
 
 ---
 
